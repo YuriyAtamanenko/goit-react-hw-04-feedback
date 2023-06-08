@@ -1,0 +1,16 @@
+.box {
+  display: flex;
+  justify-content: space-evenly;
+  width: 100%;
+}
+
+.name {
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: center;
+}
+
+.value {
+  font-size: 36px;
+  font-weight: 700;
+}
